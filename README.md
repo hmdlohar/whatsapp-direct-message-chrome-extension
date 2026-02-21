@@ -17,7 +17,7 @@ A Chrome extension to send WhatsApp messages directly to any phone number, even 
 [Add to Chrome](https://chrome.google.com/webstore)
 
 ### Manual Installation
-1. Download `wa-direct.zip` from releases
+1. Download source code (zip) from GitHub
 2. Unzip the file
 3. Open `chrome://extensions/`
 4. Enable "Developer mode"
