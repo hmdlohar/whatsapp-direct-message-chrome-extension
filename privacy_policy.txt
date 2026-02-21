@@ -1,0 +1,7 @@
+Privacy Policy
+
+WhatsApp Direct Message extension stores your phone number history and preferences locally using Chrome's sync storage. This data is synced across your Chrome instances for your convenience.
+
+We do not collect, transmit, or share any personal information with third parties. The phone numbers you enter are only used to generate WhatsApp message links.
+
+For any privacy concerns, please contact the developer.

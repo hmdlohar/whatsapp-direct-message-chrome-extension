@@ -1,0 +1,7 @@
+{
+  "name": "wa-direct",
+  "version": "1.0.0",
+  "scripts": {
+    "zip": "zip -r wa-direct.zip . -x 'preview/*' -x '*.zip'"
+  }
+}
