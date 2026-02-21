@@ -36,6 +36,7 @@ A Chrome extension to send WhatsApp messages directly to any phone number, even 
 | Permission | Purpose |
 |------------|---------|
 | `activeTab` | Get current tab to execute WhatsApp link |
+| `scripting` | Inject JavaScript to create and click WhatsApp link |
 | `storage` | Save phone history synced across devices |
 
 ## Tech Stack
